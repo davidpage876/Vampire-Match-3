@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b9c488b75df5d274eb8e09ad16a495ae, type: 3}
+  m_Name: EctoplasmPotionType
+  m_EditorClassIdentifier: 
+  m_tileType:
+    m_id: 119
+    m_moveable: 1
+    m_matchable: 1
+    m_clearable: 1
+    m_spawnable: 1
+    m_droppable: 1
+    m_editorTileColor: white
+  m_editorIcon: {fileID: 2800000, guid: c684f272f8045b34b8a92dc0e0454c97, type: 3}
+  m_bottleMesh: {fileID: 1516063900109666292, guid: 6b79745a082865942abcad473f26b563,
+    type: 3}
+  m_liquidMesh: {fileID: -4302255373923997118, guid: 3cb4d020dbed3ba4bbc7e5dd088e11ee,
+    type: 3}
+  m_liquidMaterial: {fileID: 2100000, guid: fa4cb6fa8bb12244d9beef65724bccf9, type: 2}

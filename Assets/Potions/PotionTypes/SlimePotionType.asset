@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b9c488b75df5d274eb8e09ad16a495ae, type: 3}
+  m_Name: SlimePotionType
+  m_EditorClassIdentifier: 
+  m_tileType:
+    m_id: 103
+    m_moveable: 1
+    m_matchable: 1
+    m_clearable: 1
+    m_spawnable: 1
+    m_droppable: 1
+    m_editorTileColor: lime
+  m_editorIcon: {fileID: 2800000, guid: 6b78c2c0194d63349899af2a93c94b31, type: 3}
+  m_bottleMesh: {fileID: -1799544840152682656, guid: 5d26de8e31900744e8d847372dbca229,
+    type: 3}
+  m_liquidMesh: {fileID: -7865641841784208403, guid: 14c1ebe4c85a2a94598e5cf172b2873d,
+    type: 3}
+  m_liquidMaterial: {fileID: 2100000, guid: bae00f96c5b183948b119301bf033880, type: 2}

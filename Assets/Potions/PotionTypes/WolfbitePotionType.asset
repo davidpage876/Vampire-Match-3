@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b9c488b75df5d274eb8e09ad16a495ae, type: 3}
+  m_Name: WolfbitePotionType
+  m_EditorClassIdentifier: 
+  m_tileType:
+    m_id: 111
+    m_moveable: 1
+    m_matchable: 1
+    m_clearable: 1
+    m_spawnable: 1
+    m_droppable: 0
+    m_editorTileColor: orange
+  m_editorIcon: {fileID: 2800000, guid: 34ccdb89f210f704498c6db02efeb943, type: 3}
+  m_bottleMesh: {fileID: -4700681959739276875, guid: 78a2ca97ac0ceab449a85890be1e25eb,
+    type: 3}
+  m_liquidMesh: {fileID: 6576378098500239594, guid: 2484ce0178f335d4a9c7a24871b838a7,
+    type: 3}
+  m_liquidMaterial: {fileID: 2100000, guid: 82dd1c3ad181f0443b6cc05b91fa71f4, type: 2}
